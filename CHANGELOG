@@ -1,0 +1,18 @@
+Version 0.4 (2017-05-15)
+
+* Converted the plugin to a AAR
+
+
+Version 0.3 (2016-08-22)
+
+* Added the translucent status bar feature (enabled by default)
+
+
+Version 0.2 (2016-05-06)
+
+* Apply status and navigation bar visibility before the splash screen
+
+
+Version 0.1 (2016-04-09)
+
+* Initial version

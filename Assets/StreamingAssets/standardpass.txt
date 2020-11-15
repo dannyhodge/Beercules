@@ -1,0 +1,258 @@
+default
+default
+0
+Never have I ever
+Gone skinny dipping. If you've done it, drink!
+2
+Never have I ever
+Had a one night stand. If you've done it, drink!
+2
+Never have I ever
+Taken my clothes off in public. If you've done it, drink!
+3
+Never have I ever
+Been thrown out of a club. If you've done it, drink!
+2
+Never have I ever
+Liked the brother/sister of a partner. If you've done it, drink!
+3
+Never have I ever
+Had sex with someone from another country. If you've done it, drink!
+3
+Never have I ever
+Smoked Weed. If you've done it, drink!
+2
+Never have I ever
+Ditched my friends to pull. If you've done it, drink!
+2
+Never have I ever
+Lied to pull someone. If you've done it, drink!
+2
+Never have I ever
+Fallen asleep during sexual activities. If you've done it, drink!
+5
+Never have I ever
+Felt sexually about someone in the room. If you've done it, drink!
+3
+Never have I ever
+Been handcuffed. If you've done it, drink!
+3
+Never have I ever
+Sent nudes. If you've done it, drink!
+2
+Never have I ever
+Had Skype sex. If you've done it, drink!
+3
+Never have I ever
+Thought someone's junk was fugly and refused to give oral. If you've done it, drink!
+3
+Never have I ever
+Showered with someone else. If you've done it, drink!
+1
+Never have I ever
+Been to a gay bar. If you've done it, drink!
+2
+Never have I ever
+Been to church and had sex on the same day. If you've done it, drink!
+5
+Never have I ever
+Played Fingers before today. If you've done it, drink!
+5
+Never have I ever
+Fired a gun. If you've done it, drink!
+4
+Never have I ever
+Peed in the shower. If you've done it, drink!
+2
+Never have I ever
+Been on TV. If you've done it, drink!
+4
+Never have I ever
+Shaved my head. If you've done it, drink!
+3
+Never have I ever
+Committed a crime. If you've done it, drink!
+3
+Never have I ever
+Cross dressed. If you've done it, drink!
+5
+Never have I ever
+Put someone in hospital. If you've done it, drink!
+3
+Never have I ever
+Given a lap dance. If you've done it, drink!
+3
+Never have I ever
+Received a lap dance. If you've done it, drink!
+2
+Never have I ever
+Incorporated food into my sex life. If you've done it, drink!
+5
+Never have I ever
+Mixed video games and sex. If you've done it, drink!
+5
+Never have I ever
+Cheated on a test or assignment. If you've done it, drink!
+3
+Never have I ever
+Entered the wrong hole. If you've done it, drink!
+5
+Never have I ever
+Drunk the least at a party. If you've done it, drink!
+4
+Never have I ever
+Walked around the house naked. If you've done it, drink!
+3
+Never have I ever
+Punched someone in the face. If you've done it, drink!
+2
+Never have I ever
+Watched porn in someone elses house. If you've done it, drink!
+5
+Never have I ever
+Chosen video games over sex. If you've done it, drink!
+3
+Never have I ever
+Wanked in a sock. If you've done it, drink!
+2
+Never have I ever
+Been humped by a dog. If you've done it, drink!
+1
+Never have I ever
+Heard my parents have sex. If you've done it, drink!
+2
+Never have I ever
+Heard someone in this room having sex. If you've done it, drink!
+4
+Never have I ever
+Peed, pooped or puked in the street. If you've done it, drink!
+3
+Never have I ever
+Watched a chic flic on my own. If you've done it, drink!
+2
+Never have I ever
+Been friendzoned. If you've done it, drink!
+2
+Never have I ever
+Escaped the friendzone. If you've done it, drink!
+3
+Never have I ever
+Pulled on a night out. If you've done it, drink!
+2
+Never have I ever
+Been attracted to someone over 60. If you've done it, drink!
+5
+Never have I ever
+Had sex to Marvin Gaye or R Kelly. If you've done it, drink!
+2
+Never have I ever
+Payed for porn. If you've done it, drink!
+4
+Never have I ever
+Owned fake ID. If you've done it, drink!
+2
+Gentlemen
+Lads all drink!
+3
+Ladies
+Girls all drink!
+3
+Gentlemen
+Lads all drink!
+3
+Ladies
+Girls all drink!
+3
+Mate
+Pick a mate. Every time you drink, he or she has to drink.
+0
+It's all you
+You drink. Sorry.
+3
+It's all you
+You drink. Sorry.
+3
+A Short Review
+Explain a film in 1 word (it can't be a word in the title). First correct answer gives out drinks.
+6
+Unlucky
+Everyone pours some of their drink into yours.
+0
+Shag, Marry, Kill
+For the next 3 people to your right, choose one to shag, one to marry, and one to kill. If you refuse to answer, drink!
+5
+Shag, Marry, Kill
+For the next 3 people to your right, choose one to shag, one to marry, and one to kill. If you refuse to answer, drink!
+5
+Shag, Marry, Kill
+For the next 3 people to your right, choose one to shag, one to marry, and one to kill. If you refuse to answer, drink!
+5
+Do I know you?
+How old is the person opposite you? Get it right, give out drinks. Get it wrong, you drink.
+4
+Do I know you?
+What is the middle name of the person opposite to you? Get it right, give out drinks. Get it wrong, you drink.
+4
+Do I know you?
+What is the birthday of the person opposite to you? Get it right, give out drinks. Get it wrong, you drink.
+4
+Know it all
+Guess the birthday of everyone in the room. For each you get correct, give out 1 drink. Drink for each you get wrong. 
+0
+Know it all
+Guess the favorite pizza topping of everyone in the room. For each you get correct, give out 1 drink. Drink for each you get wrong. 
+0
+Rule
+Everyone drinks with their left hand. If you break the rule, drink!
+2
+Rule
+Everyone refers to people by their last name. If you break the rule, drink!
+3
+Drink!
+Drink as many shots (or fingers) as you want. Everyone must match it.
+0
+Drink!
+Drink as many shots (or fingers) as you want. Everyone must match it.
+0
+Drink!
+Drink as many shots (or fingers) as you want. Everyone must match it.
+0
+Liar, Liar!
+Either tell a true story, or make one up. At the end, everyone votes on whether it's true. Losers drink.
+5
+Liar, Liar!
+Either tell a true story, or make one up. At the end, everyone votes on whether it's true. Losers drink.
+5
+Liar, Liar!
+Either tell a true story, or make one up. At the end, everyone votes on whether it's true. Losers drink.
+5
+The Dwayne Johnson Award
+Name the sexiest man in the room. Make him drink!
+4
+The George Clooney Award
+Name the man who will look his best in his 40s. Make him drink!
+4
+The Jennifer Lawrence Award
+Name the sexiest woman in the room. Make her drink!
+4
+The Jennifer Aniston Award
+Name the woman who will look better in her 40s. Make her drink!
+4
+The Chris Pratt Award
+Name the funniest man in the room. Make him drink!
+4
+The Emma Stone Award
+Name the funniest woman in the room. Make her drink!
+4
+The Ashton Kutcher Award
+Name the biggest lady killer in the room. Make him drink!
+4
+The Angelina Jolie Award
+Name the biggest slut in the room. Make her drink!
+4
+Place your bets!
+Choose the most likely person to finish their drink first. If correct, give drinks out. Else, drink. 
+5
+Place your bets!
+Choose the most likely person to swear next. If correct, give drinks out. Else, drink. 
+5
